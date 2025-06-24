@@ -1,5 +1,8 @@
 # chale_hotel
 
+![imagem_exemplo](https://github.com/user-attachments/assets/65b42a6a-fd94-4a31-bec2-518812e6d864)
+
+
 
 Chalé Hotel 
 Este projeto é um site institucional para um hotel fictício chamado "Chalé Hotel". O site possui um design responsivo, com foco em uma interface simples e elegante, promovendo os serviços do hotel, incluindo apartamentos, restaurante e piscina.
